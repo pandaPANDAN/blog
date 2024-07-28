@@ -1,2 +1,3 @@
 # blog
-C++知识点整理和刷LeetCode的心得
+C++知识点整理
+LeetCode刷题分享
